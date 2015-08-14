@@ -1,3 +1,4 @@
-// more methods
-// Introduce the methods 'splice' and 'slice' and write a series of challenges illustrating the use and differences of these methods.
-// Introduce the methods 'indexOf' and 'charAt' and write a series of challenges illustrating the use and differences of these methods.
+// splice slice indexOf join reverse
+
+// There are a few more methods that are a bit less commonly used than things like push and pop,
+// but can be extremely helpful. They are "reverse", "join", "indexOf", "slice", and "splice".
