@@ -14,8 +14,8 @@
 // array[3]
 
 // On the lines below we have an array. We want to get the third item in the array,
-// so on the line below the array, access the third item
-var array = ['Jon', 5, 9.9, 'hello world']
+// so uncomment the line below, and on the line below that, access the third item
+// var array = ['Jon', 5, 9.9, 'hello world']
 
 
 // On the lines below this, define a variable with an array containing any values you
